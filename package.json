@@ -1,0 +1,37 @@
+{
+  "name": "href",
+  "version": "0.0.0",
+  "description": "middleware providing the current absolute url as req.href",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "middler": "~0.7.0",
+    "request": "~2.22.0",
+    "expres": "0.0.4"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/carlos8f/href.git"
+  },
+  "homepage": "https://github.com/carlos8f/href",
+  "keywords": [
+    "url",
+    "absolute",
+    "uri",
+    "path",
+    "bacon",
+    "hacking",
+    "yo"
+  ],
+  "author": "Carlos Rodriguez <carlos@s8f.org> (http://s8f.org/)",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "6bbcd8327c34376ef30ba79e0513c68349082082",
+  "bugs": {
+    "url": "https://github.com/carlos8f/href/issues"
+  }
+}
