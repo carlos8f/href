@@ -10,7 +10,7 @@ middleware providing the current absolute url as req.href
 ## Example
 
 ```js
-var href = require('../')
+var href = require('href')
   , server = require('http').createServer()
   , middler = require('middler')
 
