@@ -1,6 +1,6 @@
 {
   "name": "href",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "middleware providing the current absolute url as req.href",
   "main": "index.js",
   "dependencies": {},
